@@ -1,19 +1,19 @@
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "STINGER-V4"
-global.dana = "2349037524605"
-global.qris = "https://i.ibb.co/BnYRXcw/STINGER-V4.jpg"
+global.storename = "Josh bugs"
+global.dana = "2348104400066"
+global.qris = "https://i.ibb.co/BnYRXcw/Josh-bugsjpg"
 
 
 // GLOBAL SETTING
-global.owner = "2349037524605"
+global.owner = "2348104400066"
 global.namabot = " S҉ T҉ I҉ N҉ G҉ E҉ R҉- V҉ 4҉"
-global.nomorbot = "2349037524605"
-global.namaCreator = "ES TEAMS"
-global.linkyt = "https://youtube.com/@esteams"
+global.nomorbot = "2348104400066"
+global.namaCreator = "*Joshua*"
+global.linkyt = "https://youtube.com/@josh"
 global.autoJoin = false
-global.antilink = false
+global.antilink = true
 global.versisc = '4.0.1'
 
 // DELAY JPM
@@ -31,10 +31,10 @@ global.location = '1'
 //GLOBAL THUMB
 
 global.codeInvite = ""
-global.imageurl = 'https://i.ibb.co/BnYRXcw/STINGER-V4.jpg'
-global.isLink = 'https://whatsapp.com/channel/0029Vaj1vKSK5cDDT4tVvY1y'
-global.packname = "ES TEAMS"
-global.author = "ES TEAMS"
+global.imageurl = 'https://i.ibb.co/BnYRXcw/Josh-bugs.jpg'
+global.isLink = 'https://chat.whatsapp.com/DwKlSK4yv2DKU4Bg9RJFKU'
+global.packname = "Joshua"
+global.author = "Josh"
 global.jumlah = "5"
 
 
